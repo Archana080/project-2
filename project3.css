@@ -1,0 +1,405 @@
+.inbox{
+    background-color: rgb(255, 255, 255);
+    /* min-height: 600px; */
+}
+.pro{
+    padding: 20px;
+}
+.sec{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+.home{
+    color:rgb(234, 175, 14) !important ;
+}
+.inbox1{
+    background-color: rgb(255, 255, 255);
+    min-height: 200px;
+    margin: 30px;
+}
+.hh{
+    text-align: center;
+    padding: 20px;
+
+}
+.sec01{
+    padding: 20px;
+}
+.inbox3{
+    /* padding: 70px; */
+    margin: 20px;
+    padding:10% 0%  ;
+  
+}
+.inbox4{
+    /* height: 200px; */
+   /* padding-top: 70px;  */
+   /* padding: 30px; */
+   margin: 30px;
+}
+
+.ar{
+    background-color: rgb(234, 175, 14);
+    font-size: 15px;
+    color: white;
+    padding: 8px 20px;
+    margin: 25px ;
+    text-align: center;
+text-decoration: none;
+}
+.line{
+    background-color: rgb(237, 178, 16) ;
+    min-height: 6px;
+    margin: auto;
+    margin-top: -0px;
+    max-width: 80px;
+}
+/* poi */
+.wo{
+    /* height: 400px; */
+}
+.po{
+    /* height: 150px; */
+    /* margin: 80px;
+    padding: 15px; */
+    display: block;
+    margin-left: auto;
+}
+
+/* .cofee{
+    margin: 20px;
+} */
+.icon1{
+    color: rgb(211, 193, 32);
+}
+.inbox5{
+    background-color: rgb(219, 231, 231);
+    text-align: center;
+    padding: 20px;
+
+}
+.sec2{
+   background-color: rgb(245, 244, 244);
+   padding-bottom: 50px;
+}
+.inbox6{
+    text-align: center;
+    padding: 20px;
+}
+.lp{
+    font-size:60px;
+    text-align: center;
+    padding: 50px;
+}
+.inbox7{
+    background-color: rgb(237, 178, 16);
+    /* min-height:100%; */
+    text-align: center;
+    padding: 50px;
+}
+.inbox40{
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    
+}
+
+.inbox8{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.inbox9{
+    /* background-color: rgb(228, 228, 228); */
+}
+.sec3{
+    margin: 25px;
+    background-image: url(photo\ \(1\).jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.bi1{
+    color: rgb(215, 181, 10);
+    font-size: 50px;
+}
+.opacity{
+    background-color:rgba(28, 27, 27, 0.676);
+}
+.how{
+    color: aliceblue;
+    font-size:50PX;
+}
+.what{
+    color: rgb(215, 181, 10);
+    margin: 30px;
+}
+.inbox10{
+    background-color: rgb(226, 186, 43);
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+.mdn{
+    margin-top: 20px;
+}
+.inbox12{
+    background-color: rgb(255, 255, 255);
+}
+.rj{
+    text-align: center;
+   
+}
+.inbox13{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+    padding: 50px;
+    text-size-adjust: 10px;
+}
+.mt{
+    font-size: 50px;
+    font-weight: bold;
+}
+.inbox14{
+    background-color: rgb(235, 219, 168);;
+}
+.s12{
+    text-align: center;
+    font-weight: bold;
+   
+}
+.CAT{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.dog{
+    text-align: center;
+    font-weight: bold;
+}
+.inbox15{
+    /* background-color: rgb(234, 229, 201); */
+    text-align: center;
+    height: 250px;
+    }
+.inbox16{
+    background-color: rgb(213, 168, 21);
+
+}
+.inbox17{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    /* height: 250px; */
+}
+.CAT1{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.dog{  background-color: rgba(214, 176, 72, 0.907);
+    font-size: 15px;
+    color: white;
+    padding: 10px ;
+    margin: 25px ;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.dog1{  background-color: rgb(234, 175, 14);
+    font-size: 15px;
+    color: white;
+    padding:10px;
+    /* margin: 25px ; */
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.inbox18{
+    margin-top: 20px;
+    text-align: center;
+ 
+}
+
+.inbox19{
+    color: rgb(255, 255, 255);
+}
+.sec4{
+    background-image: url(black1.jpg);
+    background-repeat: no-repeat;
+    background-color: aqua;
+    /* height: 500px; */
+    background-size: cover;
+    text-align: center;
+
+}
+.sec5{
+    padding-bottom: 50px;
+}
+.w{
+    text-align: center;
+}
+.leo{
+    text-align: center;
+    color: aliceblue;
+}
+.inbox20{
+    background-color: rgb(255, 255, 255);
+    /* height: 300px; */
+    /* padding: 30px;
+    margin: 5px  ; */
+}
+.leo{
+    border-radius: 200px;
+    padding: 40px;
+    text-align: center;
+}
+.key{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.our{
+    text-align: center;
+    border-radius: 1px;
+    padding: 5px;
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid;
+    margin: 10px;
+}
+.inbox21{
+    text-align: center;
+    height: 50px;
+    padding: 50px;
+}
+.inbox22{
+    /* background-color: aliceblue; */
+    padding: 30px;
+}
+.kk{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+.inbox23{
+    margin: 10px ;
+    background-color: rgb(255, 255, 255);
+    /* height: 300px; */
+    border-radius: 10px;
+    padding: 20px;
+}
+.gt{
+    background-color: aliceblue;
+}
+.kim{
+    padding: 20px;
+}
+.boot{
+    border-radius: 50%;
+    /* margin: 0px 0px 70px 10px ; */
+}
+.sec6{
+    background-color: aqua;
+    /* height: 500px; */
+    background-image: url(india.webp);
+    background-size: cover;
+}
+.inbox24{
+    background-color: aliceblue;
+    border-radius: 0px;
+    /* height: 200px; */
+    margin  : 50px;
+    text-align: center;
+
+}
+.balu{
+    color: rgb(246, 207, 16);
+    font-size: 50px;
+}
+.balu1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.inbox25{
+    background-color: rgb(216, 187, 38);
+    border-radius: 0px;
+    /* height: 200px; */
+    margin  : 50px;
+    text-align: center;
+    color: white;
+}
+.ad{
+    background-color: rgb(234, 175, 14);
+    font-size: 15px;
+    color: white;
+    padding: 8px 20px ;
+    margin: 25px ;
+    text-align: center;
+    text-decoration: none;
+}
+.inbox26{
+    text-align: center;
+    margin: 35px ;
+}
+.sec7{
+    background-image: url(cons.jpg);
+    /* height: 500px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+
+}
+.inbox30{
+    color:  rgb(234, 175, 14) ;
+    font-size: 45px;
+    font-weight: bold;
+    /* padding-top: 60px; */
+}
+.nav-link1{
+    color:  rgb(0, 0, 0) ;
+    text-decoration: none;
+    padding:20px ;
+}
+.nav-link1:hover{
+    transition: 1s;
+    color:  rgb(234, 175, 14);
+}
+.inbox31{
+    background-color: rgba(0, 0, 0, 0.635);
+     /* height: 200px;  */
+     padding: 30px;
+     margin-top: 30px;
+}
+.inbox32{
+ color: rgb(255, 255, 255);
+ font-weight: bold;
+ /* padding: 20px; */
+text-align: left;
+}
+.inbox33{
+    color: rgb(255, 255, 255);
+    /* margin-left: 120px; */
+    padding: 50px;
+   }
+   
+ .ody{
+     /* background-color: rgb(234, 175, 14);  */
+    font-size: 15px;
+    color: white;
+    padding: 8px 20px ;
+    text-align: center;
+    border:1px solid rgb(234, 175, 14 );
+    text-decoration: none;
+}
+.icon6{
+    color: rgb(234, 175, 14 ) ;
+    font-size: 50px;
+}
+/* @media(){
+    .po{
+    margin-left: auto;
+    text-align: center;
+    }
+} */
